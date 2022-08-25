@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--ps denotes Pan Screen-->
+    <dimen name="ps_header">30sp</dimen>
+    <dimen name="ps_sub_header">25sp</dimen>
+    <dimen name="ps_footer">15sp</dimen>
+    <dimen name="ps_footer_note">13sp</dimen>
+    <dimen name="input_hint">13sp</dimen>
+    <dimen name="ps_et_corner_radius">5sp</dimen>
+    <dimen name="ps_et_height">50dp</dimen>
+</resources>
